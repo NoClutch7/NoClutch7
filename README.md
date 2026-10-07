@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/CyberSecurity-Banner.png" width="100%" alt="Cybersecurity Banner">
+</p>
+
 <div align="center">
 
 # Leonardo Rodrigues
